@@ -1,0 +1,8 @@
+{
+    "name": "Teski MiniApp",
+    "description": "Teski'nin Farcaster MiniApp örneği",
+    "homepage_url": "https://farcaster-examples-sesf.vercel.app",
+    "frame_url": "https://farcaster-examples-sesf.vercel.app/frame",
+    "icon_url": "https://farcaster-examples-sesf.vercel.app/icon.png"
+  }
+  
