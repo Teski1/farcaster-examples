@@ -1,8 +1,8 @@
 {
-    "name": "Teski MiniApp",
-    "description": "Teski'nin Farcaster MiniApp örneği",
-    "homepage_url": "https://farcaster-examples-sesf.vercel.app",
-    "frame_url": "https://farcaster-examples-sesf.vercel.app/frame",
-    "icon_url": "https://farcaster-examples-sesf.vercel.app/icon.png"
+    "name": "FC2X Mini App",
+    "description": "Twitter profilini bağla, çevrim içi kal!",
+    "icon": "https://farcaster-examples-sesf-git-main-sukrutkrdgs-projects.vercel.app/icon.png",
+    "website": "https://farcaster-examples-sesf-git-main-sukrutkrdgs-projects.vercel.app/",
+    "redirect": "https://farcaster-examples-sesf-git-main-sukrutkrdgs-projects.vercel.app/frame"
   }
   
